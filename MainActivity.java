@@ -18,7 +18,7 @@ public class MainActivity extends Activity implements LoginView {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //xxxxx
+        //xxxxxaa
     }
 
     private void init() {
